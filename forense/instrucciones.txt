@@ -1,0 +1,5 @@
+Hola,
+
+Rescate este trafico enemigo:
+1. Puedes obtener las credemciales de telnet del usuario?
+2. Puedes identificar un 3 way handshacke?

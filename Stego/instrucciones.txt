@@ -1,0 +1,13 @@
+El enemigo tenia esta foto con el, no sabemos si tiene algo, nos ayudas a revisar? Solo pudimos rescatar una lista de posibles passwords:
+
+altavista2019
+septiembre
+isisnataly
+clave
+hacker
+
+Algo funciona pero no entendemos lo que contiene, nos leimos el manual de steghide pero algo nos falto. Creemos que con la opción -xf algo nos arroja.
+
+Ayudamos!
+
+

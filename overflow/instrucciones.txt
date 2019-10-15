@@ -1,0 +1,4 @@
+Analiza el codigo fuente y binario
+
+1. Modifica la variable para alterar el flujo del programa
+2. A los cuantos bytes se modifica la variable?

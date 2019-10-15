@@ -1,0 +1,4 @@
+1.- realizar un programa que ejecute un ping a la subred 192.168.0.0/24 y que nos indoque que host esta activo (python o bash)
+
+2.- crear un programa que verifique si una web existe o no (python o bash)
+
